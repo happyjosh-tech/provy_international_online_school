@@ -51,7 +51,7 @@ prometheus-client==0.8.0
 psycopg2==2.8.5
 pycodestyle==2.6.0
 pycparser==2.20
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.2
 Pyphen==0.9.5
 python-decouple==3.3
